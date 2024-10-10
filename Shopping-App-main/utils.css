@@ -1,0 +1,49 @@
+.flex{
+    display:flex;
+}
+
+.items-center{
+  align-items:center;
+  font-weight:bolder;
+}
+
+.justify-center{
+   justify-content:center;
+}
+
+.space-between{
+    justify-content: space-between;
+    font-weight:bolder;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semibold{
+    font-weight:bolder;
+}
+
+.mx-2{
+ margin-left:12px;
+ margin-right: 12px;
+}
+
+.dropdown {
+    margin-left:12px;
+    margin-right: 12px;
+  }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+  }
+
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
